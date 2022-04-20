@@ -180,7 +180,7 @@
 	
 
 	<footer>
-		&copy; <?php echo date('Y'); ?> , <a href="http://saiful.im/">Saiful Islam</a>
+		&copy; <?php echo date('Y'); ?> , <a href="https://github.com/AntarikshKumar">Antariksh Kumar</a>
 	</footer>
 	</div>	
 	</body>
